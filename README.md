@@ -36,7 +36,7 @@
 
 ## About The Project
 
-[<img src="https://i.ibb.co/bBH75Jx/ezgif-4-5c7af7668c6a.gif" width="100%"/>](https://instagram-2ccdf.web.app/)
+[<img src="https://i.ibb.co/C7JWK2q/ezgif-4-5c7af7668c6a.gif" width="100%"/>](https://instagram-2ccdf.web.app/)
 
 ### Built With
 
