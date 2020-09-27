@@ -1,0 +1,25 @@
+{
+  "short_name": "Instagram Clone",
+  "name": "Instagram Clone - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+  "icons": [
+    {
+      "src": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

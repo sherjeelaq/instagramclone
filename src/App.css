@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.app__headerImage {
+  object-fit: contain;
+}
+
+.app__signup {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__posts {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.app_postsRight {
+  margin-left: 30px;
+}
+
+@media only screen and (max-width: 900px) {
+  .app_postsRight {
+    display: none;
+    margin-left: 0;
+  }
+  .app__postsLeft {
+    margin-right: unset;
+  }
+}
+.app__imageLogin {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.app__loginContainer > Button {
+  margin-right: 5px;
+}
+
+.app__signup > * {
+  margin-bottom: 30px;
+}
+
+.app__formLabel {
+  text-align: center;
+}
+
+.app__signinMain {
+  display: flex;
+  height: 70vh;
+  flex-direction: column;
+  width: 500px;
+}
+.app__signinMain > * {
+  margin-bottom: 20px;
+}
